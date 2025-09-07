@@ -1,4 +1,4 @@
-# Fundify - Decentralized Project Funding Platform
+# Fundify - Decentralized Crowdfunding Platform
 
 A modern, decentralized platform for funding innovative projects with cryptocurrency.
 
